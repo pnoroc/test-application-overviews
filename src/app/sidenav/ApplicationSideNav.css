@@ -1,0 +1,12 @@
+  .sidenav-wrapper {
+    position: absolute;
+    border: 1px solid black;
+    max-width: 50vw;
+    right: 0;
+    top: 50px;
+    width: 100%;
+    box-sizing: border-box;
+    height: calc(100vh - 150px);
+    background: white;
+    padding: 1rem;
+  }
